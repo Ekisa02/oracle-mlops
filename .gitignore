@@ -1,0 +1,17 @@
+node_modules/
+.env
+.cache
+artifacts/
+coverage/
+typechain/
+hh-config.ts
+*.secret
+*.log
+npmlogin/*
+.DS_Store
+build/
+coverage/
+*.keystore
+*.pem
+/.vscode/
+/.idea/
